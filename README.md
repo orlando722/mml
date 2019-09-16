@@ -1,4 +1,4 @@
-# Minimum module load | mml
+# mml
 Library to manage small modules in javascript.
 
 **Example:**
