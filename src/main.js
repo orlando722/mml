@@ -1,6 +1,6 @@
 /**
  * Minimum module load | mml
- * Library to create small and manage modules in javascript.
+ * Library to manage small modules in javascript.
  * @author Orlando De La Rosa
  * @copyright 2019
  * @version 1.0.0

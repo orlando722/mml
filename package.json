@@ -1,7 +1,7 @@
 {
   "name": "mml",
   "version": "1.0.0",
-  "description": "minimum module load",
+  "description": "minimum module load: library to manage small modules in javascript",
   "main": "main.js",
   "scripts": {
     "build": "gulp build",
