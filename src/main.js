@@ -49,7 +49,7 @@
             _cacheNameModules.push(name);
             _cacheModules.push(newModule);
     
-            modules[index].logic.call(newModule.expose, newModule.expose, getModule);
+            modules[index].logic.call(newModule.expose, newModule, newModule.expose, getModule);
     
             return newModule.expose;
         }
