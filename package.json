@@ -1,0 +1,20 @@
+{
+  "name": "mml",
+  "version": "1.0.0",
+  "description": "minimum module load",
+  "main": "main.js",
+  "scripts": {
+    "build": "gulp build",
+    "clean": "gulp clean"
+  },
+  "author": "Orlando De La Rosa",
+  "homepage": "https://github.com/orlando722/mml",
+  "license": "MIT",
+  "licenseUrl": "https://github.com/orlando722/mml/blob/master/LICENSE",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}

@@ -1,9 +1,3 @@
-# Minimum module load | mml
-Library to create small and manage modules in javascript.
-
-**Example:**
-
-`
 var cal = mml('cal', [
     {
         name: 'cal',
@@ -16,6 +10,3 @@ var cal = mml('cal', [
 ]);
 
 console.log(cal.sum(5, 5));
-`
-
-**[See more](/example)**
