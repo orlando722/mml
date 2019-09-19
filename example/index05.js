@@ -1,7 +1,7 @@
 var cal = mml('cal', [
     {
         name: 'cal',
-        logic: function(expose, getModule) {
+        logic: function(module, expose, getModule) {
             var helper = getModule('helper');
 
             function sum(a, b) {
@@ -22,7 +22,7 @@ var cal = mml('cal', [
     },
     {
         name: 'helper',
-        logic: function(expose) {
+        logic: function(module, expose) {
             expose.sum = function(a, b) {
                 return a + b;
             };
