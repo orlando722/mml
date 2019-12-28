@@ -1,4 +1,7 @@
 # mml
+
+[![GitHub license](https://img.shields.io/github/license/orlando722/mml)](https://github.com/orlando722/mml/blob/master/LICENSE)
+
 Library to manage small modules in javascript.
 
 **Example:**
