@@ -7,7 +7,7 @@
     "build": "gulp build",
     "clean": "gulp clean"
   },
-  "author": "Orlando De La Rosa",
+  "author": "Orlando De La Rosa <orlando.delarosa@outlook.com>",
   "homepage": "https://github.com/orlando722/mml",
   "license": "MIT",
   "licenseUrl": "https://github.com/orlando722/mml/blob/master/LICENSE",
